@@ -41,6 +41,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 
 body{
 	background: black url('../img/font.png') no-repeat;
+	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
 }
